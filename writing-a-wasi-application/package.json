@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "build": "asc assembly/index.ts -b build/optimized.wasm -t build/optimized.wat --sourceMap --validate --optimize --use abort=wasi_abort"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.9.2"
+  }
+}
