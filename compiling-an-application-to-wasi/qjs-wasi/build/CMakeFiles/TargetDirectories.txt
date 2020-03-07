@@ -1,3 +1,3 @@
-/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/rebuild_cache.dir
-/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir
-/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/edit_cache.dir
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/rebuild_cache.dir
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/edit_cache.dir

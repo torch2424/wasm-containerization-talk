@@ -1,2 +1,2 @@
 #!/bin/bash
-wasirun /home/torch2424/Source/wasi-lab/qjs-wasi/build/qjs.wasm "$@"
+wasirun /home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/qjs.wasm "$@"

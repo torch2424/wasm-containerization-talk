@@ -11,7 +11,7 @@ static ALLOC: wee_alloc::WeeAlloc = wee_alloc::WeeAlloc::INIT;
 // Let's define our external function
 #[wasm_bindgen]
 extern "C" {
-  #[wasm_bindgen(js_namespace = console)]
+  #[wasm_bindgen]
   fn host_import();
 }
 

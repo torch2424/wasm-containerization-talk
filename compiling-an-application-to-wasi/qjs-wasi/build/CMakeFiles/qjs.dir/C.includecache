@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.c
 stdlib.h
 -
 stdio.h
@@ -16,17 +16,17 @@ stdarg.h
 string.h
 -
 cutils.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 stdlib.h
 -
 inttypes.h
 -
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp-opcode.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp.c
 stdlib.h
 -
 stdio.h
@@ -40,25 +40,25 @@ string.h
 assert.h
 -
 cutils.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 libregexp.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp.h
 libregexp-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp-opcode.h
 libregexp-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp-opcode.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp.h
 stddef.h
 -
 libunicode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode-table.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode-table.h
 stdint.h
 -
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode.c
 stdlib.h
 -
 stdio.h
@@ -70,21 +70,21 @@ string.h
 assert.h
 -
 cutils.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 libunicode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode.h
 libunicode-table.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode-table.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode-table.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode.h
 inttypes.h
 -
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/list.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/list.h
 stddef.h
 -
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/qjs.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/qjs.c
 stdlib.h
 -
 stdio.h
@@ -110,13 +110,13 @@ malloc/malloc.h
 malloc.h
 -
 cutils.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 quickjs-libc.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-libc.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-libc.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-atom.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-atom.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-libc.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-libc.c
 stdlib.h
 -
 stdio.h
@@ -158,23 +158,23 @@ termios.h
 sys/ioctl.h
 -
 cutils.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 list.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/list.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/list.h
 quickjs-libc.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-libc.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-libc.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-libc.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-libc.h
 stdio.h
 -
 stdlib.h
 -
 quickjs.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-opcode.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs.c
 stdlib.h
 -
 stdio.h
@@ -200,15 +200,15 @@ malloc/malloc.h
 malloc.h
 -
 cutils.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.h
 list.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/list.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/list.h
 quickjs.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs.h
 libregexp.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp.h
 libbf.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/libbf.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libbf.h
 pthread.h
 -
 stdatomic.h
@@ -216,27 +216,27 @@ stdatomic.h
 errno.h
 -
 quickjs-atom.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-atom.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-atom.h
 quickjs-atom.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-atom.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-atom.h
 quickjs-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-opcode.h
 quickjs-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-opcode.h
 quickjs-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-opcode.h
 quickjs-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-opcode.h
 quickjs-opcode.h
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-opcode.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-opcode.h
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs.h
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs.h
 stdio.h
 -
 stdint.h
 -
 
-/home/torch2424/Source/wasi-lab/qjs-wasi/src/repl.c
+/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/repl.c
 inttypes.h
 -
 

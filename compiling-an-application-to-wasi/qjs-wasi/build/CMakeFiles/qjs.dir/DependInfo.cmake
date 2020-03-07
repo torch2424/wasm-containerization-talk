@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/cutils.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/cutils.c.obj"
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/libregexp.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/libregexp.c.obj"
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/libunicode.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/libunicode.c.obj"
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/qjs.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/qjs.c.obj"
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs-libc.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/quickjs-libc.c.obj"
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/quickjs.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/quickjs.c.obj"
-  "/home/torch2424/Source/wasi-lab/qjs-wasi/src/repl.c" "/home/torch2424/Source/wasi-lab/qjs-wasi/build/CMakeFiles/qjs.dir/src/repl.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/cutils.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/cutils.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libregexp.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/libregexp.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/libunicode.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/libunicode.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/qjs.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/qjs.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs-libc.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/quickjs-libc.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/quickjs.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/quickjs.c.obj"
+  "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/src/repl.c" "/home/torch2424/Source/wasm-containerization-talk-examples/compiling-an-application-to-wasi/qjs-wasi/build/CMakeFiles/qjs.dir/src/repl.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 
