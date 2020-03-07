@@ -4,6 +4,8 @@ In this example, we will be compiling [QuickJS](https://bellard.org/quickjs/) to
 
 The `qjs-wasi` directory is from the MIT licensed [saghul/wasi-lab](https://github.com/saghul/wasi-lab/tree/05d2c175afeed626187f792c9dd1a8142e11f95a/qjs-wasi). 
 
+We will be using [wasienv](https://github.com/wasienv/wasienv) to compile this C application to Wasi. But another great toolchain for compiling C / C++ would be [Emscripten](https://emscripten.org/).
+
 # Build and Run
 
 Mostly just following the build instructions from `qjs-wasi`.
