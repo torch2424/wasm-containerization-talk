@@ -1,0 +1,2 @@
+#!/bin/bash
+wasirun /home/torch2424/Source/wasi-lab/qjs-wasi/build/qjs.wasm "$@"
